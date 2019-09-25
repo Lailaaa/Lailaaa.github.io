@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Introduction
 date: 2019-09-24
 labels:
   - About Me
