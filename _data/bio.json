@@ -19,21 +19,6 @@
         "network": "github",
         "username": "Lailaaa",
         "url": "http://github.com/Lailaaa"
-      },
-      {
-        "network": "linkedin",
-        "username": "Lailaaa",
-        "url": "http://linkedin.com/in/Lailaaa"
-      },
-      {
-        "network": "twitter",
-        "username": "Lailaaa",
-        "url": "http://twitter.com/Lailaaa"
-      },
-      {
-        "network": "instagram",
-        "username": "Lailaaa",
-        "url": "http://instagram.com/Lailaaa"
       }
     ]
   },
@@ -50,6 +35,11 @@
     },
     {
       "name": "Music",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Traveling",
       "keywords": [
       ]
     }
