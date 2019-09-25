@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Mo Maluhia",
+    "name": "Laila Abella",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://Lailaaa.github.io/images/Lailaaa.JPG",
+    "email": "abellal@hawaii.edu",
+    "phone": "",
+    "website": "https://Lailaaa.github.io",
+    "summary": "I am studying for a B.B.A. in Finance and Managment Information Systems at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,39 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Lailaaa",
+        "url": "http://github.com/Lailaaa"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Lailaaa",
+        "url": "http://linkedin.com/in/Lailaaa"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Lailaaa",
+        "url": "http://twitter.com/Lailaaa"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Lailaaa",
+        "url": "http://instagram.com/Lailaaa"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Numbers",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Coding",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Music",
       "keywords": [
       ]
     }
